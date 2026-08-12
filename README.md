@@ -89,7 +89,7 @@ python classification.py
 
 ## 📸 Project Screenshot
 
-![Project Screenshot](Screenshot.png)
+![Project Screenshot](Screenshot.jpg)
 
 ---
 
